@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a front-end developer with experience in React, Next and JavaScript.
+I have multiple repos that contains from small code snippets to full project code.
+
 <!--
 **Raj3108singh/Raj3108singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
